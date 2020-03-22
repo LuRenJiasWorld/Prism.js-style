@@ -1,6 +1,6 @@
 # Prism Extension Styles for WP Editor.md
 
-### 如何使用 How to use
+## 如何使用 How to use
 
 复制🔗开头的链接，将其粘贴在WP Editor.md设置页面中的『自定义风格样式部分』即可生效。
 
@@ -8,7 +8,7 @@ Copy the link(start with 🔗) of the following available themes, and paste it t
 
 [![How To Use](screenshots/howtouse.gif)](screenshots/howtouse.gif)
 
-### 可用样式 Available styles
+## 可用样式 Available styles
 
 * [🔗__CB__](https://cdn.jsdelivr.net/wp/wp-editormd/assets/prismjs-style/CB/prism-cb.min.css) (originally by [C. Bavota](https://bitbucket.org/cbavota), adapted by [atelierbram](https://github.com/atelierbram))<br />
 [![CB](screenshots/prism-cb.png)](CB/prism-cb.min.css)
