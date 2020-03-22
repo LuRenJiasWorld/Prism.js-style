@@ -1,4 +1,4 @@
-#  WP Editor.md自定义代码高亮样式 | Prism Style for WP Editor.md
+# Prism Style for WP Editor.md
 
 ### 如何使用 How to use
 
