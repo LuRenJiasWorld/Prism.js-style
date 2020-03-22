@@ -1,5 +1,11 @@
 # Prism Extension Styles for WP Editor.md
 
+## 描述 Description
+
+一些WP Editor.md可以使用的第三方Prism.js代码高亮主题。
+
+Some third-party Prism.js extension styles for WP Editor.md.
+
 ## 如何使用 How to use
 
 复制🔗开头的链接，将其粘贴在WP Editor.md设置页面中的『自定义风格样式部分』即可生效。
